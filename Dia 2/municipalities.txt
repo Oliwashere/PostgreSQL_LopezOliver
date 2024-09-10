@@ -1,0 +1,1123 @@
+Abejorral;002;Antioquia
+Abrego;003;Norte de Santander
+Abriaquí;004;Antioquia
+Acacias;006;Meta
+Acandí;006;Chocó
+Acevedo;006;Huila
+Achí;006;Bolívar
+Agrado;013;Huila
+Aguachica;011;Cesar
+Aguada;013;Santander
+Aguadas;013;Caldas
+Agua de Dios;001;Cundinamarca
+Aguazul;010;Casanare
+Agustín Codazzi;013;Cesar
+Aipe;016;Huila
+Albán;019;Cundinamarca
+Albán;019;Nariño
+Albania;020;Santander
+Albania;029;Caquetá
+Albania;035;La Guajira
+Alcalá;020;Valle del Cauca
+Aldana;022;Nariño
+Alejandría;021;Antioquia
+Algarrobo;030;Magdalena
+Algeciras;020;Huila
+Almaguer;022;Cauca
+Almeida;022;Boyacá
+Alpujarra;024;Tolima
+Altamira;026;Huila
+Alto Baudo;025;Chocó
+Altos del Rosario;030;Bolívar
+Alvarado;026;Tolima
+Amagá;030;Antioquia
+Amalfi;031;Antioquia
+Ambalema;030;Tolima
+Anapoima;035;Cundinamarca
+Ancuyá;036;Nariño
+Andalucía;036;Valle del Cauca
+Andes;034;Antioquia
+Angelópolis;036;Antioquia
+Angostura;038;Antioquia
+Anolaima;040;Cundinamarca
+Anorí;040;Antioquia
+Anserma;042;Caldas
+Ansermanuevo;041;Valle del Cauca
+Anza;044;Antioquia
+Anzoátegui;043;Tolima
+Apartadó;045;Antioquia
+Apía;045;Risaralda
+Apulo;599;Cundinamarca
+Aquitania;047;Boyacá
+Aracataca;053;Magdalena
+Aranzazu;050;Caldas
+Aratoca;051;Santander
+Arauca;001;Arauca
+Arauquita;065;Arauca
+Arbeláez;053;Cundinamarca
+Arboleda;051;Nariño
+Arboledas;051;Norte de Santander
+Arboletes;051;Antioquia
+Arcabuco;051;Boyacá
+Arenal;042;Bolívar
+Argelia;050;Cauca
+Argelia;054;Valle del Cauca
+Argelia;055;Antioquia
+Ariguaní;058;Magdalena
+Arjona;052;Bolívar
+Armenia;001;Quindío
+Armenia;059;Antioquia
+Armero;055;Tolima
+Arroyohondo;062;Bolívar
+Astrea;032;Cesar
+Ataco;067;Tolima
+Atrato;050;Chocó
+Ayapel;068;Córdoba
+Bagadó;073;Chocó
+Bahía Solano;075;Chocó
+Bajo Baudó;077;Chocó
+Balboa;075;Cauca
+Balboa;075;Risaralda
+Baranoa;078;Atlántico
+Baraya;078;Huila
+Barbacoas;079;Nariño
+Barbosa;077;Santander
+Barbosa;079;Antioquia
+Barichara;079;Santander
+Barrancabermeja;081;Santander
+Barranca de Upía;110;Meta
+Barrancas;078;La Guajira
+Barranco de Loba;074;Bolívar
+Barranco Minas;343;Guainía
+Barranquilla;001;Atlántico
+Becerril;045;Cesar
+Belalcázar;088;Caldas
+Belén;083;Nariño
+Belén;087;Boyacá
+Belén de Bajira;086;Chocó
+Belén de Los Andaquies;094;Caquetá
+Belén de Umbría;088;Risaralda
+Bello;088;Antioquia
+Belmira;086;Antioquia
+Beltrán;086;Cundinamarca
+Berbeo;090;Boyacá
+Betania;091;Antioquia
+Betéitiva;092;Boyacá
+Betulia;092;Santander
+Betulia;093;Antioquia
+Bituima;095;Cundinamarca
+Boavita;097;Boyacá
+Bochalema;099;Norte de Santander
+Bogotá D.C.;001;Bogotá D.C.
+Bojacá;099;Cundinamarca
+Bojaya;099;Chocó
+Bolívar;100;Cauca
+Bolívar;100;Valle del Cauca
+Bolívar;101;Santander
+Bosconia;060;Cesar
+Boyacá;104;Boyacá
+Briceño;106;Boyacá
+Briceño;107;Antioquia
+Bucaramanga;001;Santander
+Bucarasica;109;Norte de Santander
+Buenaventura;109;Valle del Cauca
+Buenavista;079;Córdoba
+Buena Vista;109;Boyacá
+Buenavista;110;Sucre
+Buenavista;111;Quindío
+Buenos Aires;110;Cauca
+Buesaco;110;Nariño
+Bugalagrande;113;Valle del Cauca
+Buriticá;113;Antioquia
+Busbanzá;114;Boyacá
+Cabrera;120;Cundinamarca
+Cabrera;121;Santander
+Cabuyaro;124;Meta
+Cacahual;886;Guainía
+Cáceres;120;Antioquia
+Cachipay;123;Cundinamarca
+Cachirá;128;Norte de Santander
+Cácota;125;Norte de Santander
+Caicedo;125;Antioquia
+Caicedonia;122;Valle del Cauca
+Caimito;124;Sucre
+Cajamarca;124;Tolima
+Cajibío;130;Cauca
+Cajicá;126;Cundinamarca
+Calamar;015;Guaviare
+Calamar;140;Bolívar
+Calarcá;130;Quindío
+Caldas;129;Antioquia
+Caldas;131;Boyacá
+Caldono;137;Cauca
+Cali;001;Valle del Cauca
+California;132;Santander
+Calima;126;Valle del Cauca
+Caloto;142;Cauca
+Campamento;134;Antioquia
+Campoalegre;132;Huila
+Campo de La Cruz;137;Atlántico
+Campohermoso;135;Boyacá
+Canalete;090;Córdoba
+Cañasgordas;138;Antioquia
+Candelaria;130;Valle del Cauca
+Candelaria;141;Atlántico
+Cantagallo;160;Bolívar
+Caparrapí;148;Cundinamarca
+Capitanejo;147;Santander
+Caqueza;151;Cundinamarca
+Caracolí;142;Antioquia
+Caramanta;145;Antioquia
+Carcasí;152;Santander
+Carepa;147;Antioquia
+Carmen de Apicala;148;Tolima
+Carmen de Carupa;154;Cundinamarca
+Carmen del Darien;150;Chocó
+Carolina;150;Antioquia
+Cartagena;001;Bolívar
+Cartagena del Chairá;150;Caquetá
+Cartago;147;Valle del Cauca
+Caruru;161;Vaupés
+Casabianca;152;Tolima
+Castilla la Nueva;150;Meta
+Caucasia;154;Antioquia
+Cepitá;160;Santander
+Cereté;162;Córdoba
+Cerinza;162;Boyacá
+Cerrito;162;Santander
+Cerro San Antonio;161;Magdalena
+Cértegui;160;Chocó
+Chachagüí;240;Nariño
+Chaguaní;168;Cundinamarca
+Chalán;230;Sucre
+Chámeza;015;Casanare
+Chaparral;168;Tolima
+Charalá;167;Santander
+Charta;169;Santander
+Chía;175;Cundinamarca
+Chigorodó;172;Antioquia
+Chimá;168;Córdoba
+Chimá;176;Santander
+Chimichagua;175;Cesar
+Chinácota;172;Norte de Santander
+Chinavita;172;Boyacá
+Chinchiná;174;Caldas
+Chinú;182;Córdoba
+Chipaque;178;Cundinamarca
+Chipatá;179;Santander
+Chiquinquirá;176;Boyacá
+Chíquiza;232;Boyacá
+Chiriguaná;178;Cesar
+Chiscas;180;Boyacá
+Chita;183;Boyacá
+Chitagá;174;Norte de Santander
+Chitaraque;185;Boyacá
+Chivatá;187;Boyacá
+Chivolo;170;Magdalena
+Chivor;236;Boyacá
+Choachí;181;Cundinamarca
+Chocontá;183;Cundinamarca
+Cicuco;188;Bolívar
+Ciénaga;189;Magdalena
+Ciénaga de Oro;189;Córdoba
+Ciénega;189;Boyacá
+Cimitarra;190;Santander
+Circasia;190;Quindío
+Cisneros;190;Antioquia
+Ciudad Bolívar;101;Antioquia
+Clemencia;222;Bolívar
+Cocorná;197;Antioquia
+Coello;200;Tolima
+Cogua;200;Cundinamarca
+Colombia;206;Huila
+Colón;203;Nariño
+Colón;219;Putumayo
+Coloso;204;Sucre
+Cómbita;204;Boyacá
+Concepción;206;Antioquia
+Concepción;207;Santander
+Concordia;205;Magdalena
+Concordia;209;Antioquia
+Condoto;205;Chocó
+Confines;209;Santander
+Consaca;207;Nariño
+Contadero;210;Nariño
+Contratación;211;Santander
+Convención;206;Norte de Santander
+Copacabana;212;Antioquia
+Coper;212;Boyacá
+Córdoba;212;Bolívar
+Córdoba;212;Quindío
+Córdoba;215;Nariño
+Corinto;212;Cauca
+Coromoro;217;Santander
+Corozal;215;Sucre
+Corrales;215;Boyacá
+Cota;214;Cundinamarca
+Cotorra;300;Córdoba
+Covarachía;218;Boyacá
+Coveñas;221;Sucre
+Coyaima;217;Tolima
+Cravo Norte;220;Arauca
+Cuaspud;224;Nariño
+Cubará;223;Boyacá
+Cubarral;223;Meta
+Cucaita;224;Boyacá
+Cucunubá;224;Cundinamarca
+Cúcuta;001;Norte de Santander
+Cucutilla;223;Norte de Santander
+Cuítiva;226;Boyacá
+Cumaral;226;Meta
+Cumaribo;773;Vichada
+Cumbal;227;Nariño
+Cumbitara;233;Nariño
+Cunday;226;Tolima
+Curillo;205;Caquetá
+Curití;229;Santander
+Curumaní;228;Cesar
+Dabeiba;234;Antioquia
+Dagua;233;Valle del Cauca
+Dibula;090;La Guajira
+Distracción;098;La Guajira
+Dolores;236;Tolima
+Don Matías;237;Antioquia
+Dosquebradas;170;Risaralda
+Duitama;238;Boyacá
+Durania;239;Norte de Santander
+Ebéjico;240;Antioquia
+El Águila;243;Valle del Cauca
+El Bagre;250;Antioquia
+El Banco;245;Magdalena
+El Cairo;246;Valle del Cauca
+El Calvario;245;Meta
+El Cantón del San Pablo;135;Chocó
+El Carmen;245;Norte de Santander
+El Carmen de Atrato;245;Chocó
+El Carmen de Bolívar;244;Bolívar
+El Carmen de Chucurí;235;Santander
+El Carmen de Viboral;148;Antioquia
+El Castillo;251;Meta
+El Cerrito;248;Valle del Cauca
+El Charco;250;Nariño
+El Cocuy;244;Boyacá
+El Colegio;245;Cundinamarca
+El Copey;238;Cesar
+El Doncello;247;Caquetá
+El Dorado;270;Meta
+El Dovio;250;Valle del Cauca
+El Encanto;263;Amazonas
+El Espino;248;Boyacá
+El Guacamayo;245;Santander
+El Guamo;248;Bolívar
+Elías;244;Huila
+El Litoral del San Juan;250;Chocó
+El Molino;110;La Guajira
+El Paso;250;Cesar
+El Paujil;256;Caquetá
+El Peñol;254;Nariño
+El Peñón;250;Santander
+El Peñón;258;Cundinamarca
+El Peñón;268;Bolívar
+El Piñon;258;Magdalena
+El Playón;255;Santander
+El Retén;268;Magdalena
+El Retorno;025;Guaviare
+El Roble;233;Sucre
+El Rosal;260;Cundinamarca
+El Rosario;256;Nariño
+El Santuario;697;Antioquia
+El Tablón de Gómez;258;Nariño
+El Tambo;256;Cauca
+El Tambo;260;Nariño
+El Tarra;250;Norte de Santander
+El Zulia;261;Norte de Santander
+Encino;264;Santander
+Enciso;266;Santander
+Entrerrios;264;Antioquia
+Envigado;266;Antioquia
+Espinal;268;Tolima
+Facatativá;269;Cundinamarca
+Falan;270;Tolima
+Filadelfia;272;Caldas
+Filandia;272;Quindío
+Firavitoba;272;Boyacá
+Flandes;275;Tolima
+Florencia;001;Caquetá
+Florencia;290;Cauca
+Floresta;276;Boyacá
+Florián;271;Santander
+Florida;275;Valle del Cauca
+Floridablanca;276;Santander
+Fomeque;279;Cundinamarca
+Fonseca;279;La Guajira
+Fortul;300;Arauca
+Fosca;281;Cundinamarca
+Francisco Pizarro;520;Nariño
+Fredonia;282;Antioquia
+Fresno;283;Tolima
+Frontino;284;Antioquia
+Fuente de Oro;287;Meta
+Fundación;288;Magdalena
+Funes;287;Nariño
+Funza;286;Cundinamarca
+Fúquene;288;Cundinamarca
+Fusagasugá;290;Cundinamarca
+Gachala;293;Cundinamarca
+Gachancipá;295;Cundinamarca
+Gachantivá;293;Boyacá
+Gachetá;297;Cundinamarca
+Galán;296;Santander
+Galapa;296;Atlántico
+Galeras;235;Sucre
+Gama;299;Cundinamarca
+Gamarra;295;Cesar
+Gambita;298;Santander
+Gameza;296;Boyacá
+Garagoa;299;Boyacá
+Garzón;298;Huila
+Génova;302;Quindío
+Gigante;306;Huila
+Ginebra;306;Valle del Cauca
+Giraldo;306;Antioquia
+Girardot;307;Cundinamarca
+Girardota;308;Antioquia
+Girón;307;Santander
+Gómez Plata;310;Antioquia
+González;310;Cesar
+Gramalote;313;Norte de Santander
+Granada;312;Cundinamarca
+Granada;313;Antioquia
+Granada;313;Meta
+Guaca;318;Santander
+Guacamayas;317;Boyacá
+Guacarí;318;Valle del Cauca
+Guachené;300;Cauca
+Guachetá;317;Cundinamarca
+Guachucal;317;Nariño
+Guadalajara de Buga;111;Valle del Cauca
+Guadalupe;315;Antioquia
+Guadalupe;319;Huila
+Guadalupe;320;Santander
+Guaduas;320;Cundinamarca
+Guaitarilla;320;Nariño
+Gualmatán;323;Nariño
+Guamal;318;Magdalena
+Guamal;318;Meta
+Guamo;319;Tolima
+Guapi;318;Cauca
+Guapotá;322;Santander
+Guaranda;265;Sucre
+Guarne;318;Antioquia
+Guasca;322;Cundinamarca
+Guatapé;321;Antioquia
+Guataquí;324;Cundinamarca
+Guatavita;326;Cundinamarca
+Guateque;322;Boyacá
+Guática;318;Risaralda
+Guavatá;324;Santander
+Guayabal de Siquima;328;Cundinamarca
+Guayabetal;335;Cundinamarca
+Guayatá;325;Boyacá
+Güepsa;327;Santander
+Güicán;332;Boyacá
+Gutiérrez;339;Cundinamarca
+Hacarí;344;Norte de Santander
+Hatillo de Loba;300;Bolívar
+Hato;344;Santander
+Hato Corozal;125;Casanare
+Hatonuevo;378;La Guajira
+Heliconia;347;Antioquia
+Herrán;347;Norte de Santander
+Herveo;347;Tolima
+Hispania;353;Antioquia
+Hobo;349;Huila
+Honda;349;Tolima
+Ibagué;001;Tolima
+Icononzo;352;Tolima
+Iles;352;Nariño
+Imués;354;Nariño
+Inírida;001;Guainía
+Inzá;355;Cauca
+Ipiales;356;Nariño
+Iquira;357;Huila
+Isnos;359;Huila
+Istmina;361;Chocó
+Itagui;360;Antioquia
+Ituango;361;Antioquia
+Iza;362;Boyacá
+Jambaló;364;Cauca
+Jamundí;364;Valle del Cauca
+Jardín;364;Antioquia
+Jenesano;367;Boyacá
+Jericó;368;Antioquia
+Jericó;368;Boyacá
+Jerusalén;368;Cundinamarca
+Jesús María;368;Santander
+Jordán;370;Santander
+Juan de Acosta;372;Atlántico
+Junín;372;Cundinamarca
+Juradó;372;Chocó
+La Apartada;350;Córdoba
+La Argentina;378;Huila
+Labateca;377;Norte de Santander
+La Belleza;377;Santander
+Labranzagrande;377;Boyacá
+La Calera;377;Cundinamarca
+La Capilla;380;Boyacá
+La Ceja;376;Antioquia
+La Celia;383;Risaralda
+La Chorrera;405;Amazonas
+La Cruz;378;Nariño
+La Cumbre;377;Valle del Cauca
+La Dorada;380;Caldas
+La Esperanza;385;Norte de Santander
+La Estrella;380;Antioquia
+La Florida;381;Nariño
+La Gloria;383;Cesar
+La Guadalupe;885;Guainía
+La Jagua de Ibirico;400;Cesar
+La Jagua del Pilar;420;La Guajira
+La Llanada;385;Nariño
+La Macarena;350;Meta
+La Merced;388;Caldas
+La Mesa;386;Cundinamarca
+La Montañita;410;Caquetá
+Landázuri;385;Santander
+La Palma;394;Cundinamarca
+La Paz;397;Santander
+La Paz;621;Cesar
+La Pedrera;407;Amazonas
+La Peña;398;Cundinamarca
+La Pintada;390;Antioquia
+La Plata;396;Huila
+La Playa;398;Norte de Santander
+La Primavera;524;Vichada
+La Salina;136;Casanare
+La Sierra;392;Cauca
+La Tebaida;401;Quindío
+La Tola;390;Nariño
+La Unión;399;Nariño
+La Unión;400;Antioquia
+La Unión;400;Sucre
+La Unión;400;Valle del Cauca
+La Uvita;403;Boyacá
+La Vega;397;Cauca
+La Vega;402;Cundinamarca
+La Victoria;401;Boyacá
+La Victoria;403;Valle del Cauca
+La Victoria;430;Amazonas
+La Virginia;400;Risaralda
+Lebríja;406;Santander
+Leguízamo;573;Putumayo
+Leiva;405;Nariño
+Lejanías;400;Meta
+Lenguazaque;407;Cundinamarca
+Lérida;408;Tolima
+Leticia;001;Amazonas
+Líbano;411;Tolima
+Liborina;411;Antioquia
+Linares;411;Nariño
+Lloró;413;Chocó
+López;418;Cauca
+Lorica;417;Córdoba
+Los Andes;418;Nariño
+Los Córdobas;419;Córdoba
+Los Palmitos;418;Sucre
+Los Patios;405;Norte de Santander
+Los Santos;418;Santander
+Lourdes;418;Norte de Santander
+Luruaco;421;Atlántico
+Macanal;425;Boyacá
+Macaravita;425;Santander
+Maceo;425;Antioquia
+Macheta;426;Cundinamarca
+Madrid;430;Cundinamarca
+Magangué;430;Bolívar
+Magüí;427;Nariño
+Mahates;433;Bolívar
+Maicao;430;La Guajira
+Majagual;429;Sucre
+Málaga;432;Santander
+Malambo;433;Atlántico
+Mallama;435;Nariño
+Manatí;436;Atlántico
+Manaure;443;Cesar
+Manaure;560;La Guajira
+Maní;139;Casanare
+Manizales;001;Caldas
+Manta;436;Cundinamarca
+Manzanares;433;Caldas
+Mapiripán;325;Meta
+Mapiripana;663;Guainía
+Margarita;440;Bolívar
+María la Baja;442;Bolívar
+Marinilla;440;Antioquia
+Maripí;442;Boyacá
+Mariquita;443;Tolima
+Marmato;442;Caldas
+Marquetalia;444;Caldas
+Marsella;440;Risaralda
+Marulanda;446;Caldas
+Matanza;444;Santander
+Medellín;001;Antioquia
+Medina;438;Cundinamarca
+Medio Atrato;425;Chocó
+Medio Baudó;430;Chocó
+Medio San Juan;450;Chocó
+Melgar;449;Tolima
+Mercaderes;450;Cauca
+Mesetas;330;Meta
+Milán;460;Caquetá
+Miraflores;200;Guaviare
+Miraflores;455;Boyacá
+Miranda;455;Cauca
+Miriti Paraná;460;Amazonas
+Mistrató;456;Risaralda
+Mitú;001;Vaupés
+Mocoa;001;Putumayo
+Mogotes;464;Santander
+Molagavita;468;Santander
+Momil;464;Córdoba
+Mompós;468;Bolívar
+Mongua;464;Boyacá
+Monguí;466;Boyacá
+Moniquirá;469;Boyacá
+Moñitos;500;Córdoba
+Montebello;467;Antioquia
+Montecristo;458;Bolívar
+Montelíbano;466;Córdoba
+Montenegro;470;Quindío
+Montería;001;Córdoba
+Monterrey;162;Casanare
+Morales;473;Bolívar
+Morales;473;Cauca
+Morelia;479;Caquetá
+Morichal;888;Guainía
+Morroa;473;Sucre
+Mosquera;473;Cundinamarca
+Mosquera;473;Nariño
+Motavita;476;Boyacá
+Murillo;461;Tolima
+Murindó;475;Antioquia
+Mutatá;480;Antioquia
+Mutiscua;480;Norte de Santander
+Muzo;480;Boyacá
+Nariño;480;Nariño
+Nariño;483;Antioquia
+Nariño;483;Cundinamarca
+Nátaga;483;Huila
+Natagaima;483;Tolima
+Nechí;495;Antioquia
+Necoclí;490;Antioquia
+Neira;486;Caldas
+Neiva;001;Huila
+Nemocón;486;Cundinamarca
+Nilo;488;Cundinamarca
+Nimaima;489;Cundinamarca
+Nobsa;491;Boyacá
+Nocaima;491;Cundinamarca
+Norcasia;495;Caldas
+Norosí;490;Bolívar
+Nóvita;491;Chocó
+Nueva Granada;460;Magdalena
+Nuevo Colón;494;Boyacá
+Nunchía;225;Casanare
+Nuquí;495;Chocó
+Obando;497;Valle del Cauca
+Ocamonte;498;Santander
+Ocaña;498;Norte de Santander
+Oiba;500;Santander
+Oicatá;500;Boyacá
+Olaya;501;Antioquia
+Olaya Herrera;490;Nariño
+Onzaga;502;Santander
+Oporapa;503;Huila
+Orito;320;Putumayo
+Orocué;230;Casanare
+Ortega;504;Tolima
+Ospina;506;Nariño
+Otanche;507;Boyacá
+Ovejas;508;Sucre
+Pachavita;511;Boyacá
+Pacho;513;Cundinamarca
+Pacoa;511;Vaupés
+Pácora;513;Caldas
+Padilla;513;Cauca
+Páez;514;Boyacá
+Páez;517;Cauca
+Paicol;518;Huila
+Pailitas;517;Cesar
+Paime;518;Cundinamarca
+Paipa;516;Boyacá
+Pajarito;518;Boyacá
+Palermo;524;Huila
+Palestina;524;Caldas
+Palestina;530;Huila
+Palmar;522;Santander
+Palmar de Varela;520;Atlántico
+Palmas del Socorro;524;Santander
+Palmira;520;Valle del Cauca
+Palmito;523;Sucre
+Palocabildo;520;Tolima
+Pamplona;518;Norte de Santander
+Pamplonita;520;Norte de Santander
+Pana Pana;887;Guainía
+Pandi;524;Cundinamarca
+Panqueba;522;Boyacá
+Papunaua;777;Vaupés
+Páramo;533;Santander
+Paratebueno;530;Cundinamarca
+Pasca;535;Cundinamarca
+Pasto;001;Nariño
+Patía;532;Cauca
+Pauna;531;Boyacá
+Paya;533;Boyacá
+Paz de Ariporo;250;Casanare
+Paz de Río;537;Boyacá
+Pedraza;541;Magdalena
+Pelaya;550;Cesar
+Peñol;541;Antioquia
+Pensilvania;541;Caldas
+Peque;543;Antioquia
+Pereira;001;Risaralda
+Pesca;542;Boyacá
+Piamonte;533;Cauca
+Piedecuesta;547;Santander
+Piedras;547;Tolima
+Piendamó;548;Cauca
+Pijao;548;Quindío
+Pijiño del Carmen;545;Magdalena
+Pinchote;549;Santander
+Pinillos;549;Bolívar
+Piojó;549;Atlántico
+Pisba;550;Boyacá
+Pital;548;Huila
+Pitalito;551;Huila
+Pivijay;551;Magdalena
+Planadas;555;Tolima
+Planeta Rica;555;Córdoba
+Plato;555;Magdalena
+Policarpa;540;Nariño
+Polonuevo;558;Atlántico
+Ponedera;560;Atlántico
+Popayán;001;Cauca
+Pore;263;Casanare
+Potosí;560;Nariño
+Pradera;563;Valle del Cauca
+Prado;563;Tolima
+Providencia;564;Archipiélago de San Andrés, Providencia y Santa Catalina
+Providencia;565;Nariño
+Pueblo Bello;570;Cesar
+Pueblo Nuevo;570;Córdoba
+Pueblo Rico;572;Risaralda
+Pueblorrico;576;Antioquia
+Pueblo Viejo;570;Magdalena
+Puente Nacional;572;Santander
+Puerres;573;Nariño
+Puerto Alegría;530;Amazonas
+Puerto Arica;536;Amazonas
+Puerto Asís;568;Putumayo
+Puerto Berrío;579;Antioquia
+Puerto Boyacá;572;Boyacá
+Puerto Caicedo;569;Putumayo
+Puerto Carreño;001;Vichada
+Puerto Colombia;573;Atlántico
+Puerto Colombia;884;Guainía
+Puerto Concordia;450;Meta
+Puerto Escondido;574;Córdoba
+Puerto Gaitán;568;Meta
+Puerto Guzmán;571;Putumayo
+Puerto Libertador;580;Córdoba
+Puerto Lleras;577;Meta
+Puerto López;573;Meta
+Puerto Nare;585;Antioquia
+Puerto Nariño;540;Amazonas
+Puerto Parra;573;Santander
+Puerto Rico;590;Meta
+Puerto Rico;592;Caquetá
+Puerto Rondón;591;Arauca
+Puerto Salgar;572;Cundinamarca
+Puerto Santander;553;Norte de Santander
+Puerto Santander;669;Amazonas
+Puerto Tejada;573;Cauca
+Puerto Triunfo;591;Antioquia
+Puerto Wilches;575;Santander
+Pulí;580;Cundinamarca
+Pupiales;585;Nariño
+Puracé;585;Cauca
+Purificación;585;Tolima
+Purísima;586;Córdoba
+Quebradanegra;592;Cundinamarca
+Quetame;594;Cundinamarca
+Quibdó;001;Chocó
+Quimbaya;594;Quindío
+Quinchía;594;Risaralda
+Quípama;580;Boyacá
+Quipile;596;Cundinamarca
+Ragonvalia;599;Norte de Santander
+Ramiriquí;599;Boyacá
+Ráquira;600;Boyacá
+Recetor;279;Casanare
+Regidor;580;Bolívar
+Remedios;604;Antioquia
+Remolino;605;Magdalena
+Repelón;606;Atlántico
+Restrepo;606;Meta
+Restrepo;606;Valle del Cauca
+Retiro;607;Antioquia
+Ricaurte;612;Cundinamarca
+Ricaurte;612;Nariño
+Rio Blanco;616;Tolima
+Río de Oro;614;Cesar
+Riofrío;616;Valle del Cauca
+Riohacha;001;La Guajira
+Río Iro;580;Chocó
+Rionegro;615;Antioquia
+Rionegro;615;Santander
+Río Quito;600;Chocó
+Riosucio;614;Caldas
+Riosucio;615;Chocó
+Río Viejo;600;Bolívar
+Risaralda;616;Caldas
+Rivera;615;Huila
+Roberto Payán;621;Nariño
+Roldanillo;622;Valle del Cauca
+Roncesvalles;622;Tolima
+Rondón;621;Boyacá
+Rosas;622;Cauca
+Rovira;624;Tolima
+Sabana de Torres;655;Santander
+Sabanagrande;634;Atlántico
+Sabanalarga;300;Casanare
+Sabanalarga;628;Antioquia
+Sabanalarga;638;Atlántico
+Sabanas de San Angel;660;Magdalena
+Sabaneta;631;Antioquia
+Saboyá;632;Boyacá
+Sácama;315;Casanare
+Sáchica;638;Boyacá
+Sahagún;660;Córdoba
+Saladoblanco;660;Huila
+Salamina;653;Caldas
+Salamina;675;Magdalena
+Salazar;660;Norte de Santander
+Saldaña;671;Tolima
+Salento;690;Quindío
+Salgar;642;Antioquia
+Samacá;646;Boyacá
+Samaná;662;Caldas
+Samaniego;678;Nariño
+Sampués;670;Sucre
+San Agustín;668;Huila
+San Alberto;710;Cesar
+San Andrés;001;Archipiélago de San Andrés, Providencia y Santa Catalina
+San Andrés;669;Santander
+San Andrés de Cuerquía;647;Antioquia
+San Andrés de Tumaco;835;Nariño
+San Andrés Sotavento;670;Córdoba
+San Antero;672;Córdoba
+San Antonio;675;Tolima
+San Antonio del Tequendama;645;Cundinamarca
+San Benito;673;Santander
+San Benito Abad;678;Sucre
+San Bernardo;649;Cundinamarca
+San Bernardo;685;Nariño
+San Bernardo del Viento;675;Córdoba
+San Calixto;670;Norte de Santander
+San Carlos;649;Antioquia
+San Carlos;678;Córdoba
+San Carlos de Guaroa;680;Meta
+San Cayetano;653;Cundinamarca
+San Cayetano;673;Norte de Santander
+San Cristóbal;620;Bolívar
+San Diego;750;Cesar
+Sandoná;683;Nariño
+San Eduardo;660;Boyacá
+San Estanislao;647;Bolívar
+San Felipe;883;Guainía
+San Fernando;650;Bolívar
+San Francisco;652;Antioquia
+San Francisco;658;Cundinamarca
+San Francisco;755;Putumayo
+San Gil;679;Santander
+San Jacinto;654;Bolívar
+San Jacinto del Cauca;655;Bolívar
+San Jerónimo;656;Antioquia
+San Joaquín;682;Santander
+San José;665;Caldas
+San José de La Montaña;658;Antioquia
+San José del Fragua;610;Caquetá
+San José del Guaviare;001;Guaviare
+San José del Palmar;660;Chocó
+San José de Miranda;684;Santander
+San José de Pare;664;Boyacá
+San José de Uré;682;Córdoba
+San Juan de Arama;683;Meta
+San Juan de Betulia;702;Sucre
+San Juan del Cesar;650;La Guajira
+San Juan de Río Seco;662;Cundinamarca
+San Juan de Urabá;659;Antioquia
+San Juanito;686;Meta
+San Juan Nepomuceno;657;Bolívar
+San Lorenzo;687;Nariño
+San Luis;660;Antioquia
+San Luis;678;Tolima
+San Luis de Gaceno;325;Casanare
+San Luis de Gaceno;667;Boyacá
+San Luis de Sincé;742;Sucre
+San Marcos;708;Sucre
+San Martín;689;Meta
+San Martín;770;Cesar
+San Martín de Loba;667;Bolívar
+San Mateo;673;Boyacá
+San Miguel;686;Santander
+San Miguel;757;Putumayo
+San Miguel de Sema;676;Boyacá
+San Onofre;713;Sucre
+San Pablo;693;Nariño
+San Pablo de Borbur;670;Bolívar
+San Pablo de Borbur;681;Boyacá
+San Pedro;664;Antioquia
+San Pedro;670;Valle del Cauca
+San Pedro;717;Sucre
+San Pedro de Cartago;694;Nariño
+San Pedro de Uraba;665;Antioquia
+San Pelayo;686;Córdoba
+San Rafael;667;Antioquia
+San Roque;670;Antioquia
+San Sebastián;693;Cauca
+San Sebastián de Buenavista;692;Magdalena
+Santa Ana;707;Magdalena
+Santa Bárbara;679;Antioquia
+Santa Bárbara;696;Nariño
+Santa Bárbara;705;Santander
+Santa Bárbara de Pinto;720;Magdalena
+Santa Catalina;673;Bolívar
+Santacruz;699;Nariño
+Santafé de Antioquia;042;Antioquia
+Santa Helena del Opón;720;Santander
+Santa Isabel;686;Tolima
+Santa Lucía;675;Atlántico
+Santa María;676;Huila
+Santa María;690;Boyacá
+Santa Marta;001;Magdalena
+Santana;686;Boyacá
+Santander de Quilichao;698;Cauca
+Santa Rosa;683;Bolívar
+Santa Rosa;701;Cauca
+Santa Rosa de Cabal;682;Risaralda
+Santa Rosa del Sur;688;Bolívar
+Santa Rosa de Osos;686;Antioquia
+Santa Rosa de Viterbo;693;Boyacá
+Santa Rosalía;624;Vichada
+Santa Sofía;696;Boyacá
+Santiago;680;Norte de Santander
+Santiago;760;Putumayo
+Santiago de Tolú;820;Sucre
+Santo Domingo;690;Antioquia
+Santo Tomás;685;Atlántico
+Santuario;687;Risaralda
+San Vicente;674;Antioquia
+San Vicente de Chucurí;689;Santander
+San Vicente del Caguán;753;Caquetá
+San Zenón;703;Magdalena
+Sapuyes;720;Nariño
+Saravena;736;Arauca
+Sardinata;720;Norte de Santander
+Sasaima;718;Cundinamarca
+Sativanorte;720;Boyacá
+Sativasur;723;Boyacá
+Segovia;736;Antioquia
+Sesquilé;736;Cundinamarca
+Sevilla;736;Valle del Cauca
+Siachoque;740;Boyacá
+Sibaté;740;Cundinamarca
+Sibundoy;749;Putumayo
+Silos;743;Norte de Santander
+Silvania;743;Cundinamarca
+Silvia;743;Cauca
+Simacota;745;Santander
+Simijaca;745;Cundinamarca
+Simití;744;Bolívar
+Sincelejo;001;Sucre
+Sipí;745;Chocó
+Sitionuevo;745;Magdalena
+Soacha;754;Cundinamarca
+Soatá;753;Boyacá
+Socha;757;Boyacá
+Socorro;755;Santander
+Socotá;755;Boyacá
+Sogamoso;759;Boyacá
+Solano;756;Caquetá
+Soledad;758;Atlántico
+Solita;785;Caquetá
+Somondoco;761;Boyacá
+Sonsón;756;Antioquia
+Sopetrán;761;Antioquia
+Soplaviento;760;Bolívar
+Sopó;758;Cundinamarca
+Sora;762;Boyacá
+Soracá;764;Boyacá
+Sotaquirá;763;Boyacá
+Sotara;760;Cauca
+Suaita;770;Santander
+Suan;770;Atlántico
+Suárez;770;Tolima
+Suárez;780;Cauca
+Suaza;770;Huila
+Subachoque;769;Cundinamarca
+Sucre;771;Sucre
+Sucre;773;Santander
+Sucre;785;Cauca
+Suesca;772;Cundinamarca
+Supatá;777;Cundinamarca
+Supía;777;Caldas
+Suratá;780;Santander
+Susa;779;Cundinamarca
+Susacón;774;Boyacá
+Sutamarchán;776;Boyacá
+Sutatausa;781;Cundinamarca
+Sutatenza;778;Boyacá
+Tabio;785;Cundinamarca
+Tadó;787;Chocó
+Talaigua Nuevo;780;Bolívar
+Tamalameque;787;Cesar
+Támara;400;Casanare
+Tame;794;Arauca
+Támesis;789;Antioquia
+Taminango;786;Nariño
+Tangua;788;Nariño
+Taraira;666;Vaupés
+Tarapacá;798;Amazonas
+Tarazá;790;Antioquia
+Tarqui;791;Huila
+Tarso;792;Antioquia
+Tasco;790;Boyacá
+Tauramena;410;Casanare
+Tausa;793;Cundinamarca
+Tello;799;Huila
+Tena;797;Cundinamarca
+Tenerife;798;Magdalena
+Tenjo;799;Cundinamarca
+Tenza;798;Boyacá
+Teorama;800;Norte de Santander
+Teruel;801;Huila
+Tesalia;797;Huila
+Tibacuy;805;Cundinamarca
+Tibaná;804;Boyacá
+Tibasosa;806;Boyacá
+Tibirita;807;Cundinamarca
+Tibú;810;Norte de Santander
+Tierralta;807;Córdoba
+Timaná;807;Huila
+Timbío;807;Cauca
+Timbiquí;809;Cauca
+Tinjacá;808;Boyacá
+Tipacoque;810;Boyacá
+Tiquisio;810;Bolívar
+Titiribí;809;Antioquia
+Toca;814;Boyacá
+Tocaima;815;Cundinamarca
+Tocancipá;817;Cundinamarca
+Togüí;816;Boyacá
+Toledo;819;Antioquia
+Toledo;820;Norte de Santander
+Tolú Viejo;823;Sucre
+Tona;820;Santander
+Tópaga;820;Boyacá
+Topaipí;823;Cundinamarca
+Toribio;821;Cauca
+Toro;823;Valle del Cauca
+Tota;822;Boyacá
+Totoró;824;Cauca
+Trinidad;430;Casanare
+Trujillo;828;Valle del Cauca
+Tubará;832;Atlántico
+Tuchín;815;Córdoba
+Tuluá;834;Valle del Cauca
+Tunja;001;Boyacá
+Tununguá;832;Boyacá
+Túquerres;838;Nariño
+Turbaco;836;Bolívar
+Turbaná;838;Bolívar
+Turbo;837;Antioquia
+Turmequé;835;Boyacá
+Tuta;837;Boyacá
+Tutazá;839;Boyacá
+Ubalá;839;Cundinamarca
+Ubaque;841;Cundinamarca
+Ulloa;845;Valle del Cauca
+Umbita;842;Boyacá
+Une;845;Cundinamarca
+Unguía;800;Chocó
+Unión Panamericana;810;Chocó
+Uramita;842;Antioquia
+Uribe;370;Meta
+Uribia;847;La Guajira
+Urrao;847;Antioquia
+Urumita;855;La Guajira
+Usiacurí;849;Atlántico
+Útica;851;Cundinamarca
+Valdivia;854;Antioquia
+Valencia;855;Córdoba
+Valle de Guamez;865;Putumayo
+Valle de San José;855;Santander
+Valle de San Juan;854;Tolima
+Valledupar;001;Cesar
+Valparaíso;856;Antioquia
+Valparaíso;860;Caquetá
+Vegachí;858;Antioquia
+Vélez;861;Santander
+Venadillo;861;Tolima
+Venecia;506;Cundinamarca
+Venecia;861;Antioquia
+Ventaquemada;861;Boyacá
+Vergara;862;Cundinamarca
+Versalles;863;Valle del Cauca
+Vetas;867;Santander
+Vianí;867;Cundinamarca
+Victoria;867;Caldas
+Vigía del Fuerte;873;Antioquia
+Vijes;869;Valle del Cauca
+Villa Caro;871;Norte de Santander
+Villa de Leyva;407;Boyacá
+Villa del Rosario;874;Norte de Santander
+Villa de San Diego de Ubate;843;Cundinamarca
+Villagarzón;885;Putumayo
+Villagómez;871;Cundinamarca
+Villahermosa;870;Tolima
+Villamaría;873;Caldas
+Villanueva;440;Casanare
+Villanueva;872;Santander
+Villanueva;873;Bolívar
+Villanueva;874;La Guajira
+Villapinzón;873;Cundinamarca
+Villa Rica;845;Cauca
+Villarrica;873;Tolima
+Villavicencio;001;Meta
+Villavieja;872;Huila
+Villeta;875;Cundinamarca
+Viotá;878;Cundinamarca
+Viracachá;879;Boyacá
+Vista Hermosa;711;Meta
+Viterbo;877;Caldas
+Yacopí;885;Cundinamarca
+Yacuanquer;885;Nariño
+Yaguará;885;Huila
+Yalí;885;Antioquia
+Yarumal;887;Antioquia
+Yavaraté;889;Vaupés
+Yolombó;890;Antioquia
+Yondó;893;Antioquia
+Yopal;001;Casanare
+Yotoco;890;Valle del Cauca
+Yumbo;892;Valle del Cauca
+Zambrano;894;Bolívar
+Zapatoca;895;Santander
+Zapayán;960;Magdalena
+Zaragoza;895;Antioquia
+Zarzal;895;Valle del Cauca
+Zetaquira;897;Boyacá
+Zipacón;898;Cundinamarca
+Zipaquirá;899;Cundinamarca
+Zona Bananera;980;Magdalena

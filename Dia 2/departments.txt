@@ -1,0 +1,33 @@
+Amazonas;91;Región Centro Sur
+Antioquia;05;Región Eje Cafetero - Antioquia
+Arauca;81;Región Llano
+Archipiélago de San Andrés, Providencia y Santa Catalina;88;Región Caribe
+Atlántico;08;Región Caribe
+Bogotá D.C.;11;Región Centro Oriente
+Bolívar;13;Región Caribe
+Boyacá;15;Región Centro Oriente
+Caldas;17;Región Eje Cafetero - Antioquia
+Caquetá;18;Región Centro Sur
+Casanare;85;Región Llano
+Cauca;19;Región Pacífico
+Cesar;20;Región Caribe
+Chocó;27;Región Pacífico
+Córdoba;23;Región Caribe
+Cundinamarca;25;Región Centro Oriente
+Guainía;94;Región Llano
+Guaviare;95;Región Llano
+Huila;41;Región Centro Sur
+La Guajira;44;Región Caribe
+Magdalena;47;Región Caribe
+Meta;50;Región Llano
+Nariño;52;Región Pacífico
+Norte de Santander;54;Región Centro Oriente
+Putumayo;86;Región Centro Sur
+Quindío;63;Región Eje Cafetero - Antioquia
+Risaralda;66;Región Eje Cafetero - Antioquia
+Santander;68;Región Centro Oriente
+Sucre;70;Región Caribe
+Tolima;73;Región Centro Sur
+Valle del Cauca;76;Región Pacífico
+Vaupés;97;Región Llano
+Vichada;99;Región Llano

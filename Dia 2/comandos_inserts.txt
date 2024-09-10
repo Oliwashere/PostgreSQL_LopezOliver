@@ -1,0 +1,31 @@
+\COPY regiones(region)
+FROM '/home/p4student/bodriocarpeta/regions.txt'
+WITH (FORMAT csv, DELIMITER ';', HEADER false, NULL '');
+
+\COPY departamentos(departamento, codigo_departamento, region)
+FROM '/home/p4student/bodriocarpeta/departments.txt'
+WITH (FORMAT csv, DELIMITER ';', HEADER true, NULL '');
+
+INSERT INTO departamentos(departamento, codigo_departamento, region_id)
+SELECT d.departamento, d.codigo_departamento, r.id
+FROM departamentos_tmp d
+JOIN regiones r ON d.region = r.region;
+
+\COPY municipios(municipio, codigo_municipio, departamento)
+FROM '/home/p4student/bodriocarpeta/municipalities.txt'
+WITH (FORMAT csv, DELIMITER ';', HEADER true, NULL '');
+
+INSERT INTO municipios(municipio, codigo_municipio, departamento_id)
+SELECT m.municipio, m.codigo_municipio, d.id
+FROM municipalities_tmp m
+JOIN departamentos d ON m.departamento = d.departamento;
+
+\COPY personas(nombre, apellido, municipio_nacimiento, municipio_domicilio)
+FROM '/home/p4student/bodriocarpeta/personas.txt'
+WITH (FORMAT csv, DELIMITER ';', HEADER true, NULL '');
+
+INSERT INTO personas(nombre, apellido, municipio_nacimiento, municipio_domicilio)
+SELECT p.nombre, p.apellido, mn.id, md.id
+FROM personas_tmp p
+JOIN municipios mn ON p.municipio_nacimiento = mn.municipio
+JOIN municipios md ON p.municipio_domicilio = md.municipio;
